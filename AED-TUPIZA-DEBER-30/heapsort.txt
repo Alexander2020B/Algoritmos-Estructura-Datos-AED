@@ -1,0 +1,3 @@
+Ordenamiento Heapsort
+Arreglo original: |6| |97| |55| |2| |5| 
+Arreglo ordenado: |2| |5| |6| |55| |97| 
